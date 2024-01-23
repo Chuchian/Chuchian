@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Chuchian
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html, css, python
+- 📫 How to reach me: [twitter](https://twitter.com/chuchanus)
+
 
 
 <!---
