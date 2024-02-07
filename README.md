@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html, css, python
 - 📫 How to reach me: [twitter](https://twitter.com/chuchanus)
+- Follow to me  [github](https://github.com/Chuchian)
 
 
 
